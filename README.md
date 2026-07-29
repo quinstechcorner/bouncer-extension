@@ -1,6 +1,7 @@
 <h1>What's this?</h1>
 <p>Bouncer is a safari extension that allows the user to define a list of websites that they wish to be "bounced" from.<br><br>
 It acts as a friendly "are you sure" check to break habits - such as attempting to access social media or other sites that the user wishes to stop using.</p>
+<p>It bounces you to <a href="https://quinstechcorner.github.io/bouncer">this page</a></p>
 <h1>How do I use it?</h1>
 <p>Sorry to be a pest, but I refuse to pay $99 for an Apple dev license so you'll need to enable unsigned extensions and bypass gatekeeper.</p>
 
