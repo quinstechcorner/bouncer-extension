@@ -3,7 +3,7 @@
 It acts as a friendly "are you sure" check to break habits - such as attempting to access social media or other sites that the user wishes to stop using.</p>
 <p>It bounces you to <a href="https://quinstechcorner.github.io/bouncer">this page</a></p>
 <h1>How do I use it?</h1>
-<p>Sorry to be a pest, but I refuse to pay $99 for an Apple dev license so you'll need to enable unsigned extensions and bypass gatekeeper.</p>
+<p>Sorry to be a pest, but I can't afford to spend $99 on an Apple dev license. You'll need to enable unsigned extensions and bypass gatekeeper.</p>
 
 <div class="step-card">
   <ol class="step-list">
