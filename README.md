@@ -13,7 +13,7 @@ It acts as a friendly "are you sure" check to break habits - such as attempting 
 </div>
 
 
-<p>After doing that, simply download the latest release from the releases folder, drag the app to your applications folder and launch it.<br>It will then prompt you to access the settings in safari.<br>You will notice the little HAL icon in your toolbar - define your sites there.<br>You can also temporarily disable the redirect by going into safari's extension preferences.</p>
+<p>After doing that, simply download the latest release <strong>.zip</strong> from the releases folder, drag the app to your applications folder and launch it.<br>It will then prompt you to access the settings in safari.<br>You will notice the little HAL icon in your toolbar - define your sites there.<br>You can also temporarily disable the redirect by going into safari's extension preferences.</p>
 <h1>What does it work on?</h1>
 <div class="macos-compatibility-table-wrapper">
   <table class="macos-compatibility-table">
